@@ -1,0 +1,10 @@
+public class RandomNum {
+
+	public void equals(){
+
+		  int computerNum;
+		  
+		  computerNum = 0 + (int) ( Math.random() * 3 );
+		  
+	}
+}
