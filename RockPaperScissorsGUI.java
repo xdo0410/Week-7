@@ -89,3 +89,5 @@ public class RockPaperScissorsGUI {
     }
 
 }
+
+// Why do you use different values for uchoice vs. compchoice?
